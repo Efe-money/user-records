@@ -1,0 +1,16 @@
+
+table{
+    margin-left: 18% ;
+    
+    }
+    .inputs button{
+    width: 8%;
+    border: none;
+    }
+    .inputs input{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    border: none;
+    
+    }
+    
